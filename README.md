@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDkxcmhwZWtqN2Rzc3lib2toYXhhMXFsZG5kYW82dG1teGdtMXNmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
+</div>
+- :telescope: I am a student currently studying computer science! My aim is to learn all of the basics to set me up for a future career in tech.
 
-<!--
-**4rchie-r/4rchie-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :seedling: Exploring different programming languages.
 
-Here are some ideas to get you started:
+- :zap: In my free time, I am either programming or gaming. On the side I like to watch tech related videos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Archie-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/archie-reader-40137b1ab/)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4rchie-r&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
